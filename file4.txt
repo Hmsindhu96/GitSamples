@@ -2,4 +2,5 @@ added for cr004
 updated for uat fixes
 Added for cr005
 Modified for phase2 UAT fix
-
+Added for cr006
+>>>>>>> dd905524224751cddb78b4cf70dd2012009c4b84
